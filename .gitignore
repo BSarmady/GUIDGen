@@ -1,0 +1,10 @@
+*.suo
+*.user
+*.pdb
+*.exe
+*.dll
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+.vs/
+[Tt]est[Rr]esult*/
